@@ -2,7 +2,7 @@
 
 _Steven Zhou, Generative Art Project, 2021_
 
-![title](Images/1)
+(Images/<img width="200" alt="1" src="https://user-images.githubusercontent.com/89897082/146672577-7b53199a-2eff-4e8c-a18b-b170c8371290.png"> )
 
 #CellularAutomataMovement is a sociopolitical-oriented generative art project, which applies cellular automata to discuss online activism on social media. The concept of making sociopolitical generative art is from Boris Magrini’s _Should generative art be political?_. It mentions the growing demand in the contemporary art scene for new media art including generative art to focus on the social and political context. Generative art can raise the discussion of social and political problems beyond its traditional aesthetic-oriented purpose. 
 

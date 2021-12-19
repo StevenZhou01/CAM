@@ -2,9 +2,9 @@
 
 _Steven Zhou, Generative Art Project, 2021_
 
-#CellularAutomataMovement is a sociopolitical-oriented generative art project, which applies cellular automata to discuss online activism on social media. The concept of making sociopolitical generative art is from Boris Magrini’s Should generative art be political?. It mentions the growing demand in the contemporary art scene for new media art including generative art to focus on the social and political context. Generative art can raise the discussion of social and political problems beyond its traditional aesthetic-oriented purpose. 
+#CellularAutomataMovement is a sociopolitical-oriented generative art project, which applies cellular automata to discuss online activism on social media. The concept of making sociopolitical generative art is from Boris Magrini’s _Should generative art be political?_. It mentions the growing demand in the contemporary art scene for new media art including generative art to focus on the social and political context. Generative art can raise the discussion of social and political problems beyond its traditional aesthetic-oriented purpose. 
 
-For the algorithm, the project applies 2D cellular automata based on the Game of Life by John Conway, information spreading models to model and discuss people’s behaviors in online movement conducted by social media. Via metaphoric narrative to simulate the progress of the online movement, the project questions the current trends of online movement and raises the discussion of online activism.
+For the algorithm, the project applies 2D cellular automata based on _the Game of Life_ by John Conway, information spreading models to model and discuss people’s behaviors in online movement conducted by social media. Via metaphoric narrative to simulate the progress of the online movement, the project questions the current trends of online movement and raises the discussion of online activism.
 
 ```markdown
 Syntax highlighted code block

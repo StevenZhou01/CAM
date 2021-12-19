@@ -1,2 +1,0 @@
-#CellularAutomataMovement
-Sociopoilitical-oriented generative art project

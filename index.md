@@ -1,12 +1,10 @@
 ## #CellularAutomataMovement
 
-You can use the [editor on GitHub](https://github.com/StevenZhou01/CAM/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+_Steven Zhou, Generative Art Project, 2021_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#CellularAutomataMovement is a sociopolitical-oriented generative art project, which applies cellular automata to discuss online activism on social media. The concept of making sociopolitical generative art is from Boris Magrini’s Should generative art be political?. It mentions the growing demand in the contemporary art scene for new media art including generative art to focus on the social and political context. Generative art can raise the discussion of social and political problems beyond its traditional aesthetic-oriented purpose. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For the algorithm, the project applies 2D cellular automata based on the Game of Life by John Conway, information spreading models to model and discuss people’s behaviors in online movement conducted by social media. Via metaphoric narrative to simulate the progress of the online movement, the project questions the current trends of online movement and raises the discussion of online activism.
 
 ```markdown
 Syntax highlighted code block

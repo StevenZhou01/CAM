@@ -1,10 +1,11 @@
+
 ## #CellularAutomataMovement
 
-jhkjk
+[HOME PAGE]()  [ALGORITHM]()  [ARTIST STATEMENT]()  [RESEARCH]()  [DOCUMENTATION]()  [REFERENCE]()
 
-_Steven Zhou, Generative Art Project, 2021_
+_Steven Zhou, Generative Art Project, p5js, 2021_
 
-<img width="600" height="300" alt="Screen Shot 2021-12-19 at 7 12 51 PM" src="https://user-images.githubusercontent.com/89897082/146672892-61e207bc-86cb-465a-9aeb-80310b4679b2.png">
+<img width="600" alt="Screen Shot 2021-12-19 at 7 12 51 PM" src="https://user-images.githubusercontent.com/89897082/146672997-1a94e431-c6e7-443b-ac5c-054af11a7c9a.png">
 
 #CellularAutomataMovement is a sociopolitical-oriented generative art project, which applies cellular automata to discuss online activism on social media. The concept of making sociopolitical generative art is from Boris Magrini’s _Should generative art be political?_. It mentions the growing demand in the contemporary art scene for new media art including generative art to focus on the social and political context. Generative art can raise the discussion of social and political problems beyond its traditional aesthetic-oriented purpose. 
 
@@ -28,12 +29,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StevenZhou01/CAM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Author: Steven Zhou
+Contact: stevenzhou.work@gmail.com
